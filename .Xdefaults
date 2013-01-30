@@ -1,0 +1,13 @@
+XTerm*allowTcapsOps:    true
+*customization:         -color
+XTerm*termName:         xterm-256color
+XTerm*background:       rgb:ff/ff/ff
+XTerm*faceName:         courier 
+XTerm*faceSize:         18
+XTerm*colorMode:        true
+XTerm*cursorColor:      rgb:5f/60/90
+XTerm.vt100.geometry:   80x15
+XTerm*reverseWrap:      true
+XTerm*scrollKey:        true
+XTerm*saveLines:        2000
+XTerm*scrollTtyOutput:  false
